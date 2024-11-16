@@ -1,6 +1,7 @@
 ## NOTICE
 
-This repository contains the public FTC SDK for the Freight Frenzy (2021-2022) competition season.
+This repository contains the public FTC SDK for the Freight Frenzy (2021-2022) competition season. It stores all the code from the 2022-2023 FTC season my team, Alphabots #19639, participated in. I encourage people to learn from our code and algorithms such as PID, MeepMeep, etc.
+If you have any questions feel free to email me at "parshg14@gmail.com"
 
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
